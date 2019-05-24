@@ -8,7 +8,7 @@
 
 All Images and frames are in the Public Domain for the US and
 most are in the Public Domain in other countries as being over 
-100 years since the death of the artist (except potrait ICON). 
+100 years since the death of the artist (except portrait ICON cc-by-sa). 
 See full details for image source and liscencing inide "_Read Me.txt"
 
 I tried to get a mix of Images and Styles, Rough index:
