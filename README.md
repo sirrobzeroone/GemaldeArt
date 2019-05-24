@@ -14,10 +14,15 @@ See full details for image source and liscencing inide "_Read Me.txt"
 I tried to get a mix of Images and Styles, Rough index:
 
 Gemalde_01 to Gemalde_17 -- Scenary/Events
+
 Gemalde_18 to Gemalde_28 -- Animals
+
 Gemalde_29 to Gemalde_47 -- Portraits
+
 Gemalde_48 to Gemalde_54 -- Flowers
+
 Gemalde_55 to Gemalde_60 -- Fruit
+
 Gemalde_61 to Gemalde_65 -- Mythology
 
 Enjoy Sirrobzeroone
